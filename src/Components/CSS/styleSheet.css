@@ -1,0 +1,55 @@
+.navbarHeading {
+    padding: 5px;
+    margin: 5px;
+    font-size: xx-large;
+    color: green;
+    text-decoration: none;
+}
+.navbar {
+    background-color: wheat;
+    padding: 10px;
+    text-align: center;
+}
+.conversionBlock {
+    background-color: aqua;
+    padding-top: 20px;
+    height: 650px;
+}
+.convertButton {
+ color: wheat;
+ background-color: green;
+ padding: 10px;
+ width: 150px;
+ font-size: large;
+ border-radius: 5px;
+}
+.inputValue {
+    padding: 5px;
+    margin: 5px;
+    width: auto;
+    background-color: black;
+    color: bisque;
+    font-size: large;
+}
+.selectUnitType {
+    padding: 5px;
+    margin: 5px;
+    width: auto;
+    background-color: black;
+    color: bisque;
+    font-size: large;
+}
+.label {
+    font-size: x-large;
+    font-weight: bold;
+}
+.conversionRate {
+    font-style: italic;
+    color: lightblue;
+}
+.conversionRateArea{
+    background-color:rgb(204, 53, 179);
+    border-radius: 5px;
+    margin: 20px 150px 10px 150px;
+    padding: 10px;
+}
