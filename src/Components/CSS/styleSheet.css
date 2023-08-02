@@ -1,9 +1,19 @@
 .navbarHeading {
     padding: 5px;
     margin: 5px;
-    font-size: xx-large;
+    font-size: x-large;
     color: green;
     text-decoration: none;
+    transition: transform 1s ease;
+    font-weight: bold;
+}
+.navbarHeading:hover{
+    background-color:cadetblue;
+    margin: 10px;
+    color: crimson;
+    transition: background-color 1s;
+    font-size: xx-large;
+    border-radius: 5px;
 }
 .navbar {
     background-color: wheat;
@@ -22,6 +32,12 @@
  width: 150px;
  font-size: large;
  border-radius: 5px;
+}
+.convertButton:hover {
+    transition: background-color 1s;
+    font-size: x-large;
+    border-radius: 5px;
+    font-weight: bold;
 }
 .inputValue {
     padding: 5px;
