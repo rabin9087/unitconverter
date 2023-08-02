@@ -1,7 +1,7 @@
 {
   "name": "unitconverter",
   "version": "0.1.0",
-  "homepage": "https://rabin9087.github.io/length",
+  "homepage": "https://rabin9087.github.io/unitconverter",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
